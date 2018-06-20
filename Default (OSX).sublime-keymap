@@ -1,3 +1,3 @@
 [
-	{ "keys": ["ctrl+shift+d"], "command": "remove_selected_whitespace" },
+	{ "keys": ["ctrl+super+backspace"], "command": "remove_selected_whitespace" },
 ]

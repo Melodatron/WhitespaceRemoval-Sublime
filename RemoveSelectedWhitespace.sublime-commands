@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Remove Selected Whitespace",
+		"command": "remove_selected_whitespace",
+	},
+]

@@ -1,15 +1,20 @@
 Whitespace Removal
 =====================
 
-This plugin provides a command that removes all of the whitespace characters in a selection (spaces, tabs, newlines)
+This plugin provides a command "Remove Selected Whitespace" that removes all of the whitespace characters in a selection (spaces, tabs, newlines)
 
 ## Installation: ##
 
 ### via Package Control ###
 
 1. Make sure you already have Package Control installed
-2. Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
+2. Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on Mac OS)
 3. Select Whitespace Removal and press Enter
+
+## Hotkeys ##
+
+Windows/Linux: Ctrl + Alt + Backspace
+Mac OS: Control + Command + Delete
 
 ## LICENSE ##
 
