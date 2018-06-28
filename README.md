@@ -14,7 +14,7 @@ This plugin provides a command "Remove Selected Whitespace" that removes all of 
 ## Hotkeys ##
 
 * Windows/Linux: Ctrl + Alt + Backspace
-* Mac OS: Control + Command + Delete
+* Mac OS: Control + Command + Backspace
 
 ## LICENSE ##
 
